@@ -1,6 +1,6 @@
 # Telecom-Customer-Churn
 Objective:
-.Here we want to analyse asn visualize the various churn dynamics through available data using Python. 
+. Here we want to analyse asn visualize the various churn dynamics through available data using Python. 
 
 Steps Overview:
 1. Import the data using Python.
