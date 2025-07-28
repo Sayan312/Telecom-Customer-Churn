@@ -1,5 +1,10 @@
 # Telecom-Customer-Churn
+What is Customer Churn ?
+
+Customer churn, also known as customer attrition, refers to the rate at which customers stop doing business with a company or brand over a specific period.
+
 Objective:
+
 . Here we want to analyse asn visualize the various churn dynamics through available data using Python. 
 
 Steps Overview:
