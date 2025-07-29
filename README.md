@@ -5,7 +5,7 @@ Customer churn, also known as customer attrition, refers to the rate at which cu
 
 Objective:
 
-. Here we want to analyse asn visualize the various churn dynamics through available data using Python. 
+. Here we want to analyse and visualize the various churn dynamics through available data using Python. 
 
 Steps Overview:
 1. Import the data using Python.
